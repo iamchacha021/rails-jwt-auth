@@ -1,0 +1,17 @@
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230701-16389-no8xbl sitelibdir\=./.gem.20230701-16389-no8xbl clean
+
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230701-16389-no8xbl sitelibdir\=./.gem.20230701-16389-no8xbl
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/racc-1.7.1/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20230701-16389-no8xbl sitelibdir\=./.gem.20230701-16389-no8xbl install
+/bin/install -m 0755 cparse.so ./.gem.20230701-16389-no8xbl/racc

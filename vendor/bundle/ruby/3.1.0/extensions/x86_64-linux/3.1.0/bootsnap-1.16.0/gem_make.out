@@ -1,0 +1,15 @@
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/usr/share/rvm/rubies/ruby-3.1.2/bin/ruby -I /usr/share/rvm/rubies/ruby-3.1.2/lib/ruby/site_ruby/3.1.0 extconf.rb
+creating Makefile
+
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230701-16389-bczpls sitelibdir\=./.gem.20230701-16389-bczpls clean
+
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230701-16389-bczpls sitelibdir\=./.gem.20230701-16389-bczpls
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/chacha/Development/code/projects/rails-react-auth/jwt-rails-auth/vendor/bundle/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= sitearchdir\=./.gem.20230701-16389-bczpls sitelibdir\=./.gem.20230701-16389-bczpls install
+/bin/install -m 0755 bootsnap.so ./.gem.20230701-16389-bczpls/bootsnap
